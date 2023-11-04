@@ -81,7 +81,7 @@ function renderLicenseSection(license) {
 
     case 'MIT':
       licenseSection = `
-  ## License
+  # License
   
   This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) file for details.
   `;
@@ -93,6 +93,7 @@ function renderLicenseSection(license) {
   }
 
   return licenseSection;
+
 }
 
 

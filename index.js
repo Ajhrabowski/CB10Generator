@@ -30,7 +30,7 @@ const questions = [
     {
         type: 'input',
         name: 'contribution',
-        message: 'Who were the contibutors on this project?'
+        message: 'Who were the contributors on this project?'
     },
     {
         type: 'input',
