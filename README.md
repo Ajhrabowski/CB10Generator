@@ -13,9 +13,7 @@
 # Description
 This project was created with Node and Inquire. It was a Node.js Challenge as part of my MSU Fullstack Web Development Bootcamp.
 
-![Alt text](<utils/ReadMe Screenshot2.png>)
-
-
+![Alt text](<utils/ReadMe Screenshot.png>)
 
 # License
 MIT
