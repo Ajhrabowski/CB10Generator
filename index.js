@@ -24,7 +24,7 @@ const questions = [
     },
     {
         type: 'input',
-        name: 'Walkthrough Video',
+        name: 'video',
         message: 'Walkthrough Video'
     },
     {
