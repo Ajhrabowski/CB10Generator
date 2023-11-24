@@ -4,14 +4,16 @@
   
   # Table of Contents
   * [Description](#description)
+  * [License](#license)
   * [Installation](#installation)
   * [Usage](#usage)
   * [Contribution](#contribution)
-  * [License](#license)
   * [Questions](#questions)
 
 # Description
 This project was created with Node and Inquire. It was a Node.js Challenge as part of my MSU Fullstack Web Development Bootcamp.
+
+![Image Here](<ReadMe Screenshot.png>)
 
 # Walkthrough Video
 

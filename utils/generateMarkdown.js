@@ -108,14 +108,16 @@ function generateMarkdown(data) {
   
   # Table of Contents
   * [Description](#description)
+  * [License](#license)
   * [Installation](#installation)
   * [Usage](#usage)
   * [Contribution](#contribution)
-  * [License](#license)
   * [Questions](#questions)
 
 # Description
 ${data.description}
+
+![Image Here](<utils/ReadMe Screenshot.png>)
 
 # Walkthrough Video
 
@@ -144,3 +146,4 @@ ${data.questions}
 }
 
 module.exports = generateMarkdown;
+

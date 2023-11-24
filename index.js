@@ -19,21 +19,6 @@ const questions = [
     },
     {
         type: 'input',
-        name: 'installation',
-        message: 'what did you use to install the program?'
-    },
-    {
-        type: 'input',
-        name: 'usage',
-        message: 'What was this project used for?'
-    },
-    {
-        type: 'input',
-        name: 'contribution',
-        message: 'Who were the contributors on this project?'
-    },
-    {
-        type: 'input',
         name: 'description',
         message: 'Describe your project?'
     },
@@ -42,6 +27,21 @@ const questions = [
         name: 'license',
         message: 'Which license did you choose?',
         choices: ['GNU', 'ISC', 'Boost Software License 1.0', 'MIT']
+    },
+    {
+        type: 'input',
+        name: 'installation',
+        message: 'what did you use to install the program?'
+    },
+    {
+        type: 'input',
+        name: 'usage',
+        message: 'What is this project used for?'
+    },
+   {
+        type: 'input',
+        name: 'contribution',
+        message: 'Who were the contributors on this project?'
     },
     {
         type: 'input',
