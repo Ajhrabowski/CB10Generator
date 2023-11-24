@@ -120,9 +120,8 @@ ${data.description}
 ![Image Here](<utils/ReadMe Screenshot.png>)
 
 # Walkthrough Video
-${data.video}
 
-https://drive.google.com/file/d/10-PaV19xWn6Z-VSpxAd8O0GdeqiUttvD/view?usp=sharing
+* https://drive.google.com/file/d/10-PaV19xWn6Z-VSpxAd8O0GdeqiUttvD/view?usp=sharing
 
 # License
 ${data.license}

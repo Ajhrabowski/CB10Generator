@@ -23,11 +23,6 @@ const questions = [
         message: 'Describe your project?'
     },
     {
-        type: 'input',
-        name: 'video',
-        message: 'Walkthrough Video'
-    },
-    {
         type: 'list',
         name: 'license',
         message: 'Which license did you choose?',
