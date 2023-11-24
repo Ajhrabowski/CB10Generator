@@ -13,6 +13,9 @@
 # Description
 This project was created with Node and Inquire. It was a Node.js Challenge as part of my MSU Fullstack Web Development Bootcamp.
 
+# Walkthrough Video
+
+https://drive.google.com/file/d/10-PaV19xWn6Z-VSpxAd8O0GdeqiUttvD/view?usp=sharing
 
 # License
 MIT

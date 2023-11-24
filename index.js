@@ -51,13 +51,13 @@ const questions = [
 
 ];
 
-// Function to write README file
+// Function to write SVG file
 function writeToFile(fileName, data) {
     
     return fs.writeFileSync(path.join(process.cwd(), fileName), data); 
 }
 
-// Function to initialize app
+// Function to initialize SVG File
 function init() {
     inquirer.prompt(questions)
         .then(answers => {
@@ -71,7 +71,7 @@ function init() {
         })
 }
 
-// Function call to initialize app
+// Function call to initialize SVG File
 
 function init() {
     inquirer.prompt(questions).then((answers) => {
